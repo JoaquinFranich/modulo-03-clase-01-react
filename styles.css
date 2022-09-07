@@ -1,0 +1,19 @@
+/* Reset */
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* html,
+body {
+    font-family: 'Montserrat', 'sans-serif';
+    background: #ba3940;
+    color: #ffffff;
+} */
+
+a {
+    text-decoration: none;
+}
